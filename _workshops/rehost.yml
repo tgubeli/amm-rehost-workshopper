@@ -5,7 +5,7 @@ content:
   url: https://raw.githubusercontent.com/bmachado/amm-rehost-workshopper/master
 
 vars:
-  OPENSHIFT_DOCS_BASE: "https://docs.openshift.com/container-platform/3.9"
+  OPENSHIFT_DOCS_BASE: "https://docs.openshift.com/container-platform/3.11"
   OPENSHIFT_MASTER_URL: "OPENSHIFT-MASTER-URL"
   OPENSHIFT_USERNAME: "developer"
   OPENSHIFT_PASSWORD: "developer"
