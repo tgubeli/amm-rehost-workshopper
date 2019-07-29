@@ -7,13 +7,13 @@ For this scenario, we will use the CLI and Eclipse Plugin as you are the only on
    The RHAMT CLI is has been installed for you. To verify that the tool was properly installed, open a terminal window navigating on Application → System Tools → Terminal and run the following command:
 
 ~~~shell
-${HOME}/rhamt-cli-4.0.1.Final/bin/rhamt-cli --version
+${HOME}/rhamt-cli-4.2.1.Final/bin/rhamt-cli --version
 ~~~
 
 You should see:
 
 ~~~shell
-Using RHAMT at /root/rhamt-cli-4.0.1.Final
+Using RHAMT at /root/rhamt-cli-4.2.1.Final
 > Red Hat Application Migration Toolkit (RHAMT) CLI, version 4.0.1.Final.
 ~~~
 
