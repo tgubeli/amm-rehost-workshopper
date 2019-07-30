@@ -28,7 +28,7 @@ When you later deploy the application, it will look like:
 The RHAMT CLI has a number of options to control how it runs. Click on the below command to execute the RHAMT CLI and analyze the existing project:
 
 ~~~shell
-~/rhamt-cli-4.0.1.Final/bin/rhamt-cli \
+~/rhamt-cli-4.2.1.Final/bin/rhamt-cli \
   --sourceMode \
   --input ~/projects/monolith \
   --output ~/rhamt-reports/monolith \
